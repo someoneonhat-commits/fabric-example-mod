@@ -1,7 +1,8 @@
 {
- public class Vulkanite implements ClientModInitializer {
-    @Override
-    public void onInitializeClient() {
-        System.out.println("Vulkanite loaded!");
+  {
+    public class Vulkanite implements ClientModInitializer {
+       @Override
+       public void onInitializeClient() {
+           System.out.println("Vulkanite loaded!");
     }
 }
